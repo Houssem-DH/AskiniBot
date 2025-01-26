@@ -1,4 +1,4 @@
-# Bank Chatbot Assistant 🤖
+# AskiniBot 🤖
 
 A smart banking FAQ chatbot powered by Python NLP and React.js. Get instant answers to common banking queries through a friendly web interface.
 
@@ -44,7 +44,7 @@ bank-chatbot/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/bank-chatbot.git
+git clone https://github.com/Houssem-DH/AskiniBot.git
 cd bank-chatbot
 
 # Windows
