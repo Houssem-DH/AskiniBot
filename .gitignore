@@ -49,12 +49,7 @@ out/
 .env.test.local
 .env.production.local
 
-# Data files
-data/
-*.csv
-*.data
-*.db
-*.sqlite
+
 
 # Models
 models/
